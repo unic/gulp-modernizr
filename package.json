@@ -1,6 +1,6 @@
 {
   "name": "gulp-modernizr",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Gulp wrapper for custom Modernizr builds",
   "main": "index.js",
   "scripts": {
