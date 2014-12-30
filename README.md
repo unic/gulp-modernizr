@@ -1,10 +1,8 @@
 # gulp-modernizr
 
-[![Build Status](https://secure.travis-ci.org/doctyper/gulp-modernizr.png?branch=master,develop)](https://travis-ci.org/doctyper/gulp-modernizr)
+**This repository was forked to have a reliable source when using ```npm install```. It will be removed as soon as [gulp-modernizr](https://github.com/doctyper/gulp-modernizr) has been officially published to the npm registry.**
 
-<!--- TODO: SOON
-[![NPM](https://nodei.co/npm/gulp-modernizr.png?compact=true)](https://nodei.co/npm/gulp-modernizr/)
--->
+---
 
 A [Gulp](http://gulpjs.com/) wrapper for [Modernizr](https://github.com/doctyper/customizr).
 
