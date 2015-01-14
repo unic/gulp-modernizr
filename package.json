@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/doctyper/gulp-modernizr",
   "dependencies": {
-    "customizr": "git://github.com/unic/customizr.git#v0.0.1",
+    "customizr": "git://github.com/unic/customizr.git#f78d592",
     "grunt-legacy-log": "~0.1.1",
     "gulp-util": "~2.2.10",
     "through2": "~0.4.0"
